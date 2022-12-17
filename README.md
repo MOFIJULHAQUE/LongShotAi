@@ -1,5 +1,5 @@
 ## Netifly Link
-<h1> https://prakash-kumar.netlify.app/ </h1>
+<h1> https://long-shot-ai-fawn.vercel.app/ </h1>
 
 
 
