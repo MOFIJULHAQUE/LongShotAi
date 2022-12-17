@@ -42,7 +42,7 @@
   background: linear-gradient(rgb(145, 196, 212), rgb(230, 167, 167));
   padding: 2rem;
   margin-top: 2rem;
-  width: 25vw;
+  width: fit-content;
   border-radius: 20px;
 }
 .intent div {
