@@ -1,0 +1,15 @@
+.pmain{
+    background-color: rgb(126, 137, 255);
+    margin-top: 100px;
+    padding: 2rem;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+
+}

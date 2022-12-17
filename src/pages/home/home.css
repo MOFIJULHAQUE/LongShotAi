@@ -1,0 +1,100 @@
+.tabss,
+.addbtn,
+.cat {
+  border-radius: 5px;
+  padding: 5px 10px;
+  outline: none;
+  border: none;
+}
+
+.addbtn {
+  background-color: rgb(160, 25, 251);
+  color: #fff !important;
+  margin-left: 80%;
+}
+.px-5 {
+  background: linear-gradient(rgb(153, 248, 248), rgb(230, 167, 167));
+  padding: 2rem;
+  border-radius: 20px;
+  width: fit-content;
+}
+.px-5 .sndp {
+  font-size: 2rem;
+}
+.volume {
+  background: linear-gradient(rgb(153, 248, 202), rgb(230, 167, 167));
+  width: 30vw;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 20px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+.keyword {
+  background: linear-gradient(rgb(180, 212, 145), rgb(230, 167, 167));
+  padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 20px;
+}
+
+.intent {
+  background: linear-gradient(rgb(145, 196, 212), rgb(230, 167, 167));
+  padding: 2rem;
+  margin-top: 2rem;
+  width: 25vw;
+  border-radius: 20px;
+}
+.intent div {
+  display: flex;
+  flex-direction: row;
+  margin-left: 1.1rem;
+}
+.intent div button {
+  cursor: pointer;
+}
+
+.result{
+    background: linear-gradient(rgb(145, 204, 212), rgb(230, 167, 167));
+  padding: 2rem;
+  margin-top: 2rem;
+  width:30vw;
+  border-radius: 20px;
+}
+.cpc-co{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(rgb(145, 212, 192), rgb(230, 167, 167));
+    padding: 2rem;
+    margin-top: 2rem;
+    width:30vw;
+    border-radius: 20px;
+}
+.tabss{
+    background: linear-gradient(rgb(161, 189, 192), rgb(146, 212, 200));
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 20px;
+    margin-right: 20px;
+  
+
+}
+.table-responsive{
+    background: linear-gradient(rgb(235, 194, 222), rgb(171, 227, 185));
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

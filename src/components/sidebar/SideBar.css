@@ -1,0 +1,43 @@
+.sidecontent {
+    display: flex;
+  
+    flex-direction: row;
+    align-items: baseline;
+    padding: 40px;
+  }
+  
+  .sidebar {
+    background-color: #fff;
+    position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      overflow: auto;
+      width: 320px;
+      background-color: #fff;
+  }
+  
+  .first {
+    padding: 40px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(109, 108, 108);
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  a .S {
+    background-color: aqua !important;
+  }
+  
+  .activeLink div {
+    padding: 40px;
+    background-color: #e0e4ea !important;
+    color: rgb(74, 73, 73);
+  }
+  
+  .img {
+    padding: 20px;
+  }
